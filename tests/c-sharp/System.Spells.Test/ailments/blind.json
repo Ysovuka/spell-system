@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Blind",
+  "Description": "Blinds target for a short duration.",
+  "Effects": [
+    {
+      "Name": "Blind",
+      "Description": "Target loses their sight.",
+      "Nature": "Ailment",
+      "Domain": "Shadow",
+      "Ailment": "Blind",
+      "ImmunityDuration": "5s"
+    }
+  ]
+}

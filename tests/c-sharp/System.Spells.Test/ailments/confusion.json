@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Befuddle",
+  "Description": "A description for the basic ailment spell.",
+  "Effects": [
+    {
+      "Name": "Confusion",
+      "Description": "Target becomes befuddled.",
+      "Nature": "Ailment",
+      "Domain": "Mental",
+      "Ailment": "Confusion",
+      "ImmunityDuration": "10s"
+    }
+  ]
+}

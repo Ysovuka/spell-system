@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Basic Heal",
+  "Description": "A description for the basic heal spell.",
+  "Effects": [
+    {
+      "Name": "Heal Effect",
+      "Description": "Heal target for {DEGREE}",
+      "Nature": "Enchantment",
+      "Domain": "Radiant",
+      "Stat": "HP"
+    }
+  ]
+}

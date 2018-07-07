@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Basic Drain",
+  "Description": "A description for the basic drain spell.",
+  "Effects": [
+    {
+      "Name": "Drain Effect",
+      "Description": "Drain target for {DEGREE}",
+      "Nature": "Detriment",
+      "Domain": "Shadow",
+      "Stat": "HP"
+    }
+  ]
+}

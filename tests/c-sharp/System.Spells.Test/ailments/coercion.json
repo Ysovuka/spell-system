@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Sweet Talk",
+  "Description": "A description for the basic ailment spell.",
+  "Effects": [
+    {
+      "Name": "Coercion",
+      "Description": "Target becomes easier to manipulate during the duration.",
+      "Nature": "Ailment",
+      "Domain": "Mental",
+      "Ailment": "Coercion",
+      "ImmunityDuration": "15s"
+    }
+  ]
+}
